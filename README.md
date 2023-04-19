@@ -7,6 +7,16 @@
 - Docs
   - [Airtable](https://airtable.com/invite/l?inviteId=invUIT7Vk9iAguro2&inviteToken=0eb47af8933147618e85cb5eea5d3aef092c217c97a2cb81fba269215c1dcaa7&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
 
+## Description
+
+Linker 是一個可以讓 Poap 走向大眾的平台，讓 Poap 不再只是一個 NFT，而是一個可以讓社會活動更有影響力的工具。
+
+我們使用技術打造能夠單次鑄造 NFT 的 QR code, 以及使用者友善的介面, 讓 POAP 更容易被大眾所使用。
+
+Linker is a platform that can bring POAP to the masses, making it more than just an NFT, but a tool that can make social events more impactful.
+
+We use technology to create a QR code that can only get POAP once, as well as a user-friendly interface, making it easier for the general public to use POAP and more usable in many cases.
+
 ## 問題定義
 
 當前市場上缺乏一個平台，能夠簡單地結合社會活動與區塊鏈技術，以鼓勵和激勵人們參與有社會影響力的活動。
