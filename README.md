@@ -1,5 +1,11 @@
 # 項目概念：社會影響力POAP平台 - Linker
 
+## About
+- Design
+  - [Figma](https://www.figma.com/file/G4L0uomflbksFiGe4ZQwRY/Untitled?node-id=0%3A1&t=s521MhVMWdg5n1Fb-1)
+- Docs
+  - [Airtable](https://airtable.com/invite/l?inviteId=invUIT7Vk9iAguro2&inviteToken=0eb47af8933147618e85cb5eea5d3aef092c217c97a2cb81fba269215c1dcaa7&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts)
+
 ## 問題定義
 
 當前市場上缺乏一個平台，能夠簡單地結合社會活動與區塊鏈技術，以鼓勵和激勵人們參與有社會影響力的活動。
